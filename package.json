@@ -1,6 +1,6 @@
 {
   "name": "@mnrendra/util-readable-list",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "A utility to convert an array into readable text.",
   "private": false,
   "main": "dist/index.js",
