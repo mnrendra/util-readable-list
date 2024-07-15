@@ -1,3 +1,7 @@
 import main from './main'
 
-export default main
+export type { Options } from './types'
+
+export {
+  main as readableList
+}
